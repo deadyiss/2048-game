@@ -1,6 +1,6 @@
 version: "3"
 services:
   web:
-    image: Almalita/2048-btatest
+    image: almalita/2048-btatest
     ports:
       - "9999:80"
